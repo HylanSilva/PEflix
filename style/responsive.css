@@ -1,0 +1,22 @@
+@media screen and (max-width:700px) {
+    header .container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .btn1{
+        margin-top: 15px;
+        width: 10%;
+    }
+
+    .btn2{
+        margin-top: 15px;
+        width: 10%;
+    }
+}
+
+@media  screen and (min-width:1000px) {
+    .paragraph{
+        width: 60%;
+    }
+}
